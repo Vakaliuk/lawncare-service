@@ -1,0 +1,28 @@
+:root {
+  --primary-color: #6d91ee;
+  --hero-text-color: #4f4f4f;
+  --white-color: #ffffff;
+  --button-color: #5180f6;
+  --review-color: #22366a;
+  --input-color: #cedcff;
+  --footer-color: #0c1e49;
+  --btn-br: 71px;
+  --second-btn-br: 71px;
+  --img-br: 20px;
+  --review-br: 40px;
+  --form-br: 61px;
+  --description-text: 18px;
+  --second-description-text: 14px;
+  --services-text: 16px;
+  --h-text: 64px;
+  --hero-h-text: 96px;
+  --logo-first-text: 60px;
+  --logo-second-text: 21px;
+  --btn-text: 24px;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}/*# sourceMappingURL=index.css.map */
