@@ -1,0 +1,15 @@
+@mixin button() {
+  background-color: var(--button-color);
+  border-radius: var(--btn-br);
+  padding: 25px 91px;
+  color: var(--white-color);
+  font-weight: 700;
+}
+
+@mixin section-header() {
+  color: var(--primary-color);
+  font-size: var(--h-text);
+  font-weight: 900;
+  background-repeat: no-repeat;
+  padding: 14px 17.3px;
+}
