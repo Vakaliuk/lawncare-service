@@ -76,7 +76,7 @@ body {
   height: 840px;
   width: 100%;
   z-index: -1;
-  background-image: url("./assets/hero-bg.png");
+  background-image: url("../assets/hero-bg.png");
   background-repeat: no-repeat;
 }
 
@@ -111,7 +111,7 @@ body {
   content: "";
   display: block;
   width: 83px;
-  background: url("./assets/logo-img.svg") no-repeat center left;
+  background: url("../assets/logo-img.svg") no-repeat center left;
 }
 
 .hero .hero-main {
@@ -171,7 +171,7 @@ body {
   height: 840px;
   width: calc(100vw - 15px);
   z-index: -2;
-  background-image: url("./assets/about.png");
+  background-image: url("../assets/about.png");
   background-repeat: no-repeat;
 }
 
@@ -182,7 +182,7 @@ body {
   height: 840px;
   width: 63vw;
   z-index: -1;
-  background-image: url("./assets/about2.png");
+  background-image: url("../assets/about2.png");
   background-repeat: no-repeat;
 }
 
@@ -221,7 +221,7 @@ body {
 }
 
 .about-content-left .about-photo {
-  background-image: url(./assets/aboutphoto.png);
+  background-image: url(../assets/aboutphoto.png);
   width: 419px;
   height: 282px;
 }
@@ -247,7 +247,7 @@ body {
 }
 
 .services h2 {
-  background-image: url(./assets/headaccent.png);
+  background-image: url(../assets/headaccent.png);
 }
 
 .services-active {
@@ -297,7 +297,7 @@ body {
 }
 
 .review-title {
-  background-image: url(./assets/review-accent.png);
+  background-image: url(../assets/review-accent.png);
   padding: 14px 17.3px;
 }
 
@@ -315,7 +315,7 @@ body {
 }
 
 .review-cards .review-card .review-left {
-  background: url("./assets/review-photo.png") no-repeat top 24px left 20px;
+  background: url("../assets/review-photo.png") no-repeat top 24px left 20px;
   width: 80px;
   height: 80px;
   padding: 40px;
@@ -357,7 +357,7 @@ body {
 }
 
 .contact-title {
-  background-image: url(./assets/review-accent.png);
+  background-image: url(../assets/review-accent.png);
   padding: 14px 67.3px;
 }
 
@@ -430,7 +430,7 @@ body {
   width: 24px;
   height: 24px;
   text-align: center;
-  background: url("./assets/ic_round-mail.png") no-repeat;
+  background: url("../assets/ic_round-mail.png") no-repeat;
 }
 
 .contact .form-wrapper .form-contacts .tel::before {
@@ -441,7 +441,7 @@ body {
   width: 24px;
   height: 24px;
   text-align: center;
-  background: url("./assets/ic_round-call.png") no-repeat;
+  background: url("../assets/ic_round-call.png") no-repeat;
 }
 
 .contact .form-wrapper .form-contacts .address::before {
@@ -452,7 +452,7 @@ body {
   width: 24px;
   height: 24px;
   text-align: center;
-  background: url("./assets/ic_round-location-on.png") no-repeat;
+  background: url("../assets/ic_round-location-on.png") no-repeat;
 }
 
 footer {
@@ -466,7 +466,7 @@ footer {
     height: 100vh;
     width: calc(100vw - 35px);
     z-index: -1;
-    background-image: url("./assets/hero-bg.png");
+    background-image: url("../assets/hero-bg.png");
     background-repeat: no-repeat;
   }
 }
