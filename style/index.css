@@ -221,7 +221,7 @@ body {
 }
 
 .about-content-left .about-photo {
-  background-image: url(../assets/aboutphoto.png);
+  background-image: url("../assets/aboutphoto.png");
   width: 419px;
   height: 282px;
 }
@@ -247,7 +247,7 @@ body {
 }
 
 .services h2 {
-  background-image: url(../assets/headaccent.png);
+  background-image: url("../assets/headaccent.png");
 }
 
 .services-active {
@@ -297,7 +297,7 @@ body {
 }
 
 .review-title {
-  background-image: url(../assets/review-accent.png);
+  background-image: url("../assets/review-accent.png");
   padding: 14px 17.3px;
 }
 
@@ -357,7 +357,7 @@ body {
 }
 
 .contact-title {
-  background-image: url(../assets/review-accent.png);
+  background-image: url("../assets/review-accent.png");
   padding: 14px 67.3px;
 }
 
